@@ -7,6 +7,7 @@ import MarkChart from './component/MarkChart/MarkChart';
 import R2 from './component/resultChart/R2';
 import R3 from './component/resultChart/R3';
 import R4 from './component/resultChart/R4';
+import M2 from './component/MarkChart/M2';
 
 const App = () => {
   return (
@@ -24,6 +25,8 @@ const App = () => {
           <R2></R2>
           <R3></R3>
           <R4></R4>
+
+          <M2></M2>
 
       </main>
       

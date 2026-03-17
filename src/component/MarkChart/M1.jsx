@@ -16,7 +16,7 @@ const M1 = ({m}) => {
             math: v.marks.math,
         }
 
-        const avg = (student.physics + student.chemistry + student.math);
+        const avg = (student.physics + student.chemistry + student.math)/3;
         student.avg = avg;
 
         return student
