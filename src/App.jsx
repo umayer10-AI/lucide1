@@ -4,6 +4,9 @@ import Navbar from './component/Navbar/Navbar';
 import Pricing from './component/Pricing/Pricing';
 import ResultChart from './component/resultChart/resultChart';
 import MarkChart from './component/MarkChart/MarkChart';
+import R2 from './component/resultChart/R2';
+import R3 from './component/resultChart/R3';
+import R4 from './component/resultChart/R4';
 
 const App = () => {
   return (
@@ -15,8 +18,12 @@ const App = () => {
 
       <main className='max-w-[90%] mx-auto py-0'>
           <Pricing></Pricing>
-          <ResultChart></ResultChart>
-          <MarkChart></MarkChart>
+          {/* <ResultChart></ResultChart>
+          <MarkChart></MarkChart> */}
+
+          <R2></R2>
+          <R3></R3>
+          <R4></R4>
 
       </main>
       

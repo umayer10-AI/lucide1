@@ -12,7 +12,7 @@ const Card = ({name,features,popular}) => {
             </div>
             <ul className="mt-6 flex flex-1 flex-col gap-2 text-xs">
               {
-                features.map(v => <C1 n={v}></C1>)
+                features.map((v,i) => <C1 key={i} n={v}></C1>)
               }
               
             </ul>
