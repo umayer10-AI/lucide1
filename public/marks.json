@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Rahim", "marks": { "physics": 85, "chemistry": 78, "math": 90 } },
+  { "id": 2, "name": "Karim", "marks": { "physics": 72, "chemistry": 80, "math": 75 } },
+  { "id": 3, "name": "Sakib", "marks": { "physics": 88, "chemistry": 92, "math": 84 } },
+  { "id": 4, "name": "Tamim", "marks": { "physics": 65, "chemistry": 70, "math": 68 } },
+  { "id": 5, "name": "Mim", "marks": { "physics": 90, "chemistry": 87, "math": 93 } },
+  { "id": 6, "name": "Nusrat", "marks": { "physics": 76, "chemistry": 74, "math": 81 } },
+  { "id": 7, "name": "Hasan", "marks": { "physics": 69, "chemistry": 73, "math": 70 } },
+  { "id": 8, "name": "Tania", "marks": { "physics": 82, "chemistry": 79, "math": 85 } },
+  { "id": 9, "name": "Arif", "marks": { "physics": 91, "chemistry": 88, "math": 94 } },
+  { "id": 10, "name": "Jannat", "marks": { "physics": 77, "chemistry": 83, "math": 80 } }
+]

@@ -1,0 +1,47 @@
+{
+  "pricingOptions": [
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 20,
+      "description": "Perfect for beginners who want simple access to gym equipment and basic fitness support.",
+      "features": [
+        "Access to gym equipment",
+        "Locker facility",
+        "Free WiFi",
+        "Access to stretching area",
+        "Basic fitness assessment"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "popular": true,
+      "price": 40,
+      "description": "Ideal for regular gym members who want training sessions and group fitness classes.",
+      "features": [
+        "Full gym access",
+        "5 personal training sessions",
+        "Group fitness classes",
+        "Body composition analysis",
+        "Weekly workout plan",
+        "Locker facility"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 70,
+      "description": "Best for serious fitness enthusiasts who want unlimited training, classes, and advanced wellness support.",
+      "features": [
+        "Unlimited gym access",
+        "Unlimited personal training",
+        "All group classes",
+        "Diet & nutrition plan",
+        "Sauna & steam room",
+        "Progress tracking",
+        "Priority class booking"
+      ]
+    }
+  ]
+}

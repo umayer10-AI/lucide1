@@ -2,9 +2,7 @@ import React from 'react';
 
 const Nav = ({name,path}) => {
     return (
-        <div>
-            <li className='mr-10'><a href={path}>{name}</a></li>
-        </div>
+            <li className='px-3 lg:px-0 hover:bg-amber-400 lg:mr-10'><a href={path}>{name}</a></li>
     );
 };
 
